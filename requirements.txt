@@ -1,0 +1,6 @@
+Include all the Python libraries used in your `main.py`:
+
+```txt
+sense-hat
+matplotlib
+```
